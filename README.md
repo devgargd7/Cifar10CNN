@@ -1,7 +1,7 @@
 # CIFAR-10 Benchmark CNN
 Re-implementation of [94% on CIFAR-10 in 3.29 Seconds on a Single GPU](https://arxiv.org/pdf/2404.00498) for TAMU's CSCE-636: Deep Learning project.
 
-Report: CSCE636-project-2024Spring.pdf
+Report: [CSCE636-project-2024Spring.pdf](https://github.com/devgargd7/Cifar10CNN/blob/main/CSCE636-project-2024Spring.pdf)
 
 ## Steps to run code
 Given the data is in 'data' directly, outside of 'code' directory.
